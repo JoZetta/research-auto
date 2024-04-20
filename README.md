@@ -1,3 +1,2 @@
-# research-auto
-# easy code for the research some key news
-这个地方仅仅是记录变更过程
+#这个地方仅仅是记录变更过程
+很多代码都需要fork其他项目，但是autogreen功能不行！
