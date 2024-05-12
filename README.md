@@ -10,3 +10,4 @@
 最近事情多，忘记写很多东西
 说实话，写代码很头疼
 说实话，撸毛真的很熬人
+for the gitcoin points, write sth everyday is necessary
