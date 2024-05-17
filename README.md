@@ -12,3 +12,4 @@
 说实话，撸毛真的很熬人
 for the gitcoin points, write sth everyday is necessary
 也许放手也是一种方式
+需要记录多少天呢
