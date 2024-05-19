@@ -14,3 +14,4 @@ for the gitcoin points, write sth everyday is necessary
 也许放手也是一种方式
 需要记录多少天呢
 I am a price isolater
+什么时候才可以空投
