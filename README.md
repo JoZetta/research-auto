@@ -15,3 +15,4 @@ for the gitcoin points, write sth everyday is necessary
 需要记录多少天呢
 I am a price isolater
 什么时候才可以空投
+每天都要签到咯
