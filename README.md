@@ -16,3 +16,4 @@ for the gitcoin points, write sth everyday is necessary
 I am a price isolater
 什么时候才可以空投
 每天都要签到咯
+要事一定要先做！
