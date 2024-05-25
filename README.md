@@ -19,3 +19,4 @@ I am a price isolater
 要事一定要先做！
 它这个不分行啊，怎么都黏在一起了
 no words to say
+so you can write something right?
