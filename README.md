@@ -20,3 +20,4 @@ I am a price isolater
 它这个不分行啊，怎么都黏在一起了
 no words to say
 so you can write something right?
+每天好多事情要做
