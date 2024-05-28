@@ -21,3 +21,4 @@ I am a price isolater
 no words to say
 so you can write something right?
 每天好多事情要做
+然后能做什么呢？
