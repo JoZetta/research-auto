@@ -24,3 +24,4 @@ so you can write something right?
 然后能做什么呢？
 这里成了写日记的地方
 每天都要打卡，真是不妙啊
+签到多久了
