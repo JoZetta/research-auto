@@ -5,9 +5,5 @@
 这里就像笔记本一样
 忘记这是第几天记录了
 no words to say
-so you can write something right?
-每天好多事情要做
-然后能做什么呢？
-这里成了写日记的地方
 每天都要打卡，真是不妙啊
 签到多久了,maybe, need one year
