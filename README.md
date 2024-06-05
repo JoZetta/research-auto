@@ -7,3 +7,4 @@
 no words to say
 每天都要打卡，真是不妙啊
 签到多久了,maybe, need one year
+好久好久
