@@ -4,3 +4,4 @@
 每天记录一些奇特的想法，很重要
 每天都要有记录
 say sth to me
+gm to morning
