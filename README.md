@@ -5,3 +5,4 @@
 每天都要有记录
 say sth to me
 gm to morning
+good
