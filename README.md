@@ -7,3 +7,4 @@ say sth to me
 gm to morning
 good
 别给我机会，你的日子不会好过的
+坚持一定会有回报
