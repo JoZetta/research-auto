@@ -7,3 +7,4 @@ say sth to me
 gm to morning
 good
 每天都来报道，需要坚持
+坚持是第一优先美德
