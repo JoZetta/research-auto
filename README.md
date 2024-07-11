@@ -6,3 +6,4 @@
 say sth to me
 gm to morning
 good
+一切都要谨慎再谨慎
