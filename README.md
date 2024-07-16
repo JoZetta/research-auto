@@ -6,5 +6,3 @@
 say sth to me
 gm to morning
 good
-一切都要谨慎再谨慎
-努力坚持，一定会有结果
